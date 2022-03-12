@@ -8,14 +8,12 @@ Olá eu sou o Charlyes
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ###  👨🏻‍💻 Sobre mim 
-- 🎓   Cursando  Desenvolvimento de software(Stack x),
+- 🎓   Estudando Desenvolvimento de software(Stack x),
 
 
 - 🔭   Atualmente estou aprendendo JavaPoo.
 
-- ✍️   Dentre os módulos já estudados estão : Pensamento Crítico,Soft Skill, Sistemas Operacionais,
-
-- OAC,Introdução a programação,Lógica de Programaçao,
+- ✍️   Dentre os módulos já estudados estão : Pensamento Crítico,Soft Skill, Sistemas Operacionais, OAC,Introdução a programação,Lógica de Programaçao,
 
   Modelagem de Dados, Structured Query Language(SQL),
 
@@ -50,7 +48,6 @@ Olá eu sou o Charlyes
 
 - ​     Markdown
 
-  ​
 
 
 
