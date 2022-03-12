@@ -58,8 +58,7 @@
 <img align="center" alt ="charlyes - linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max - width:100%;">
 <a href="https://github.com/CharlyesRodrigues" target =" _blank">
   <img align="center" alt ="charlyes - GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"style="max - width:100%;">
- <a href=" https://www.instagram.com/charlyes_rodrigues/" target =" _blank">
- <img align="center" alt ="charlyes - Instagram" height="30" width="40" src="[instagram_icon-icons.com_59207.svg](file:///C:/img/instagram_icon-icons.com_59207.svg)"style="max - width:100%;"> 
+ 
 
 
 
