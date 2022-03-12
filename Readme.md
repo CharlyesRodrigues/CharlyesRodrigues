@@ -3,12 +3,16 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 ###  👨🏻‍💻 Sobre mim 
-- 🎓   Estudando Desenvolvimento de software(Stack x),
+- 🎓   Estudante de Desenvolvimento de software(Stack x),
 
 
 - 🔭   Atualmente estou estudando JavaPoo.
 
-- ✍️   Os módulos  estudados são : Pensamento     Crítico,Soft Skill, Sistemas Operacionais,OAC,Introdução a programação, Lógica de Programaçao,Modelagem de Dados, SQL,Metodologias Ágeis, LGPD, Estrutura Organizacional. 
+- ✍️   Os módulos  estudados são : Pensamento     Crítico,Soft Skill, Sistemas Operacionais,OAC,Introdução a programação, Lógica de Programaçao, SQL,
+
+  Metodologias Ágeis, LGPD, Estrutura Organizacional e
+
+  Modelagem de Dados.
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
@@ -53,6 +57,6 @@
   <img align="center" alt ="charlyes - GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"style="max - width:100%;">
 
   
-  
+
 
 
