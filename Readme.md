@@ -48,6 +48,16 @@
 
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)
 
-> ### 🤝🏻 Conecte-se comigo 
+### 🤝🏻 Conecte-se comigo 
 
- https://github.com/CharlyesRodrigues
+<a href="https://www.linkedin.com/in/charlyes-rodrigues/" target =" _blank">
+
+<img align="center" alt ="charlyes - linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+
+style="max - width:100%;">
+
+</a>
+
+  https://github.com/CharlyesRodrigues
+
+https://www.linkedin.com/in/charlyes-rodrigues/
