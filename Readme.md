@@ -27,7 +27,7 @@
   ### 💡 Meta para 2022:
 
   - Aprender back-end e front end
-  - Tornar-se habilidoso em Java e outras ferramentas necessárias ao back e front
+  - Tornar-se habilidoso em Java e outras ferramentas nimportante para ao back e front -end
   - Crescer como pessoa
   - Estar trabalhando na área até o 1º semestre do ano.
 
@@ -46,7 +46,7 @@
 
 
 
-[![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/ github-readme-stats)
+![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)
 
 > ### 🤝🏻 Conecte-se comigo 
 
