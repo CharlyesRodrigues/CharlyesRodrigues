@@ -11,15 +11,15 @@
 - ✍️   Modulos  estudados  :
 
   - Pensamento Crítico
-  -  Soft Skill
-  -  Sistemas Operacionais
-  -  OAC
+  - Soft Skill
+  - Sistemas Operacionais
+  - OAC
   - Introdução a programação
   - Lógica de Programaçao
-  -  SQL
+  - SQL
   - Metodologias Ágeis
-  -  LGPD
-  -  Estrutura Organizacional e Modelagem de Dados.
+  - LGPD
+  - Estrutura Organizacional e Modelagem de Dados.
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
@@ -52,10 +52,6 @@
 
 - ​     Markdown
 
-
-
-
-![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)
 
 ### 🤝🏻 Conecte-se comigo 
 <a href="https://www.linkedin.com/in/charlyes-rodrigues/" target =" _blank">
