@@ -58,7 +58,3 @@
 <img align="center" alt ="charlyes - linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max - width:100%;">
 <a href="https://github.com/CharlyesRodrigues" target =" _blank">
   <img align="center" alt ="charlyes - GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"style="max - width:100%;">
-<a href=" https://www.instagram.com/charlyes_rodrigues/" target =" _blank"> 
-<img align="center" alt ="charlyes - GitHub" height="30" width="40" src="https://cdn.icon-icons.com/icons2/122/PNG/512/instagram_socialnetwork_20033.png"style="max - width:100%;">
-
-
