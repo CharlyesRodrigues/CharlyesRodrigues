@@ -50,8 +50,22 @@
 
 ### 🤝🏻 Conecte-se comigo 
 
-<img align="center" alt ="charlyes - linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max - width:100%;">
+<a href="https://www.linkedin.com/in/charlyes-rodrigues/" target =" _blank"><img align="center" alt ="charlyes - linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max - width:100%;">
 
-  https://github.com/CharlyesRodrigues
+<a href="https://github.com/CharlyesRodrigues" target =" _blank">
 
-https://www.linkedin.com/in/charlyes-rodrigues/
+<img align="center" alt ="charlyes - GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"style="max - width:100%;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
