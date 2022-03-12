@@ -3,12 +3,12 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 ###  👨🏻‍💻 Sobre mim 
-- 🎓   Estudante de Desenvolvimento de software(Stack x),
+- 🎓   Estudante de Desenvolvimento de software(Stack x).
 
 
 - 🔭   Atualmente estou estudando JavaPoo.
 
-- ✍️   Os módulos  estudados são : Pensamento Crítico, Soft Skill, Sistemas Operacionais, OAC,Introdução a programação, Lógica de Programaçao, SQL,
+- ✍️   Módulos  estudados  : Pensamento Crítico, Soft Skill, Sistemas Operacionais, OAC , Introdução a programação, Lógica de Programaçao, SQL,
 
   Metodologias Ágeis, LGPD, Estrutura Organizacional e
 
