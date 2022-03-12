@@ -1,11 +1,7 @@
-##Olá! Eu sou Charlyes.
-
+Olá eu sou o Charlyes
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 ###  👨🏻‍💻 Sobre mim 
-
 - 🔭   Atualmente estou aprendendo JavaPoo.
-
 - 🤔   Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
 
 - 🎓   Cursando na Stacks Desenvolvimento de software
