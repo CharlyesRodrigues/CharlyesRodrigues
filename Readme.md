@@ -8,7 +8,7 @@
 
 - 🔭   Atualmente estou estudando JavaPoo.
 
-- ✍️   Módulos  estudados  : Pensamento Crítico, Soft Skill, Sistemas Operacionais, OAC , Introdução a programação, Lógica de Programaçao, SQL,
+- ✍️   Modulos  estudados  : Pensamento Crítico, Soft Skill, Sistemas Operacionais, OAC , Introdução a programação, Lógica de Programaçao, SQL,
 
   Metodologias Ágeis, LGPD, Estrutura Organizacional e
 
