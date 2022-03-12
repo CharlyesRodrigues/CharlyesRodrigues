@@ -13,7 +13,7 @@
   - Pensamento Crítico
   -  Soft Skill
   -  Sistemas Operacionais
-  -  OAC,
+  -  OAC
   - Introdução a programação
   - Lógica de Programaçao
   -  SQL
