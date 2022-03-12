@@ -1,16 +1,21 @@
+<<<<<<< HEAD
 ##**_Olá! Eu sou Charlyes._**
+
+=======
+Olá eu sou o Charlyes
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ###  👨🏻‍💻 Sobre mim 
-
 - 🎓   Cursando  Desenvolvimento de software(Stack x),
 
-- 🔭   Atualmente estou no módulo JavaPOO,
+
+- 🔭   Atualmente estou aprendendo JavaPoo.
 
 - ✍️   Dentre os módulos já estudados estão : Pensamento Crítico,Soft Skill, Sistemas Operacionais,
 
-  OAC,Introdução a programação,Lógica de Programaçao,
+- OAC,Introdução a programação,Lógica de Programaçao,
 
   Modelagem de Dados, Structured Query Language(SQL),
 
@@ -22,7 +27,7 @@
 
 - 😄 Meu Site : https://www.charlyesimpressos.com.br
 
-- 📫 Como me contatar : charlyessouza@gmail.com
+- 📫 Como me contactar : charlyessouza@gmail.com
 
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
