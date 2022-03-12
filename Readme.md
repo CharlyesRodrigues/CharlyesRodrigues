@@ -31,7 +31,7 @@
   - Crescer como pessoa
   - Estar trabalhando na área até o 1º semestre do ano.
 
-###🛠 Pilha de Tecnologia
+### **_🛠 Pilha de Tecnologia_**
 
 - 💻   Java 
 
