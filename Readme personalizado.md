@@ -1,6 +1,8 @@
 ##Olá ! Eu sou o Charlyes.       
 
-![dormrm (1)](C:\workspace\Sobre mim\seets\dormrm (1).gif)
+![programando](C:\img\programando.gif)
+
+
 
 ### **_Sobre mim_**
 
