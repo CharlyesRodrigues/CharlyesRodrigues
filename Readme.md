@@ -1,4 +1,4 @@
-##**_Olá! Eu sou Charlyes._**
+##Olá! Eu sou Charlyes.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
