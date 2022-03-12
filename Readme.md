@@ -1,28 +1,37 @@
-##Olá! Eu sou Charlyes.
+##**_Olá! Eu sou Charlyes._**
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ###  👨🏻‍💻 Sobre mim 
 
-- 🔭   Atualmente estou aprendendo JavaPoo.
+- 🎓   Cursando  Desenvolvimento de software(Stack x),
 
-- 🤔   Explorando novas tecnologias e desenvolvendo soluções de software e hacks rápidos.
+- 🔭   Atualmente estou no módulo JavaPOO,
 
-- 🎓   Cursando na Stacks Desenvolvimento de software
+- ✍️   Dentre os módulos já estudados estão : Pensamento Crítico,Soft Skill, Sistemas Operacionais,
 
-- 💼   Desenvolvedor Android e desenvolvedor web front-end.
+  OAC,Introdução a programação,Lógica de Programaçao,
 
-- 🌱   Entusiasta em cibersegurança e inteligência artificial.
+  Modelagem de Dados, Structured Query Language(SQL),
 
-- ✍️   Assistindo anime e experimentando as últimas tendências de design como hobbies / atividades paralelas.
+  Metodologias Ágeis, LGPD, Estrutura Organizacional. Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
-- ☕   Acredito que uma xícara de café perfeita pode ser a solução definitiva para qualquer estresse.
+- ⚡ Curiosidade : Tive uma gráfica por 3 anos ,aonde fui sócio com minha irmã. Lá eu usava : Photoshop e Corel Draw. Nessa gráfica ( cheguei fazer um site) foram adquiridos vários Soft Skills e Hard  Skills, obtivemos vários clientes e nos depararamos com várias situações que foram superadas uma-a-uma. Hoje eu me encontro em transição de carreira e por isso estou estudando essa área que têm me fascinado(Desenvolvimento de Software). 
 
-  ​
+- 💼Atualmente estou participando de um projeto denominado Portal IFOOD.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+- 😄 Meu Site : https://www.charlyesimpressos.com.br
 
+- 📫 Como me contatar : charlyessouza@gmail.com
 
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+
+  ### 💡 Meta para 2022:
+
+  - Aprender back-end e front end
+  - Tornar-se habilidoso em Java e outras ferramentas necessárias ao back e front
+  - Crescer como pessoa
+  - Estar trabalhando na área até o 1º semestre do ano.
 
 ###🛠 Pilha de Tecnologia
 
