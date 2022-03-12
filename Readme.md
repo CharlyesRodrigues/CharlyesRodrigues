@@ -8,11 +8,18 @@
 
 - 🔭   Atualmente estou estudando JavaPoo.
 
-- ✍️   Modulos  estudados  : Pensamento Crítico, Soft Skill, Sistemas Operacionais, OAC , Introdução a programação, Lógica de Programaçao, SQL,
+- ✍️   Modulos  estudados  :
 
-  Metodologias Ágeis, LGPD, Estrutura Organizacional e
-
-  Modelagem de Dados.
+  - Pensamento Crítico
+  -  Soft Skill
+  -  Sistemas Operacionais
+  -  OAC,
+  - Introdução a programação
+  - Lógica de Programaçao
+  -  SQL
+  - Metodologias Ágeis
+  -  LGPD
+  -  Estrutura Organizacional e Modelagem de Dados.
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
