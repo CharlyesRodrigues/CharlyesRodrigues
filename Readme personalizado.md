@@ -1,9 +1,5 @@
 ##Olá ! Eu sou o Charlyes.       
-
-![programando](C:\img\programando.gif)
-
-
-
+![image](https://user-images.githubusercontent.com/98665329/158025166-7825bafa-8a24-46d6-bace-c22097e4e216.png)
 ### **_Sobre mim_**
 
 🔭 Atualmente estou aprendendo JavaPoo
