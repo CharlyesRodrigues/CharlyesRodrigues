@@ -43,7 +43,7 @@
 
 - 💻   Java 
 
-- 🛢   MySQL 
+- 🛢   MySQL Workbench
 
 - 🔧   Eclipse | Git e Github
 
