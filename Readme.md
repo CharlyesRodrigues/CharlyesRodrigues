@@ -15,7 +15,7 @@
   - Sistemas Operacionais
   - OAC
   - Introdução a programação
-  - Lógica de Programaçao
+  - Lógica de Programação
   - SQL
   - Metodologias Ágeis
   - LGPD
