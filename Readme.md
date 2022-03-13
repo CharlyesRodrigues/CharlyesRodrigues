@@ -1,6 +1,6 @@
 ##Olá! Eu sou Charlyes.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="475"/>
 
 ###  👨🏻‍💻 Sobre mim 
 - 🎓   Estudante de Desenvolvimento de software(Stack x).
@@ -8,7 +8,7 @@
 
 - 🔭   Atualmente estou estudando JavaPoo.
 
-- ✍️   Modulos  estudados  :
+- ✍️   Módulos  estudados  :
 
   - Pensamento Crítico
   - Soft Skill
