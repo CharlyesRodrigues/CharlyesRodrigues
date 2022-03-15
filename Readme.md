@@ -23,7 +23,7 @@
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
-- ⚡ Curiosidade : Tive uma gráfica por 3 anos ,aonde fui sócio com minha irmã. Dentre os programas utilizados estão : Photoshop e Corel Draw. Nessa gráfica ( Montei um site) foram adquiridos vários Soft Skills e Hard  Skills, obtivemos vários clientes e nos depararamos com várias situações que foram superadas uma-a-uma. Hoje estou  em transição de carreira e por isso estou estudando essa área que têm me fascinado(Desenvolvimento de Software). 
+- ⚡ Curiosidade : Tive uma gráfica por 3 anos ,aonde fui sócio com minha irmã. Dentre os programas utilizados estão : Photoshop e Corel Draw. Nessa gráfica ( Montei um site) foram adquiridos vários Soft Skills e Hard  Skills, obtivemos vários clientes e nos deparamos com várias situações que foram superadas uma-a-uma. Hoje estou  em transição de carreira e por isso estou estudando essa área que têm me fascinado(Desenvolvimento de Software). 
 
 - 💼Atualmente estou participando de um projeto denominado FabDev PortalFOOD.
 
