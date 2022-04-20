@@ -20,6 +20,9 @@
   - Metodologias Ágeis
   - LGPD
   - Estrutura Organizacional e Modelagem de Dados.
+  - Java com POO
+  - Java com Tópicos Especiais
+  - Front End
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
@@ -40,14 +43,13 @@
 ### **_🛠 Pilha de Tecnologia_**
 
 - 💻   Java 
-
 - 🛢   MySQL Workbench
-
 - 🔧   Eclipse | Git e Github
-
 - 🖥  Photoshop 
-
 - ​     Markdown
+- Java com POO
+- Java com Tópicos Especiais
+- Front End
 
 
 ### 🤝🏻 Conecte-se comigo
