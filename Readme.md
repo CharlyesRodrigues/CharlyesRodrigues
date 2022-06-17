@@ -36,7 +36,7 @@
 
   ### 💡 Meta para 2022:
 
-  - Aprender back-end e front end
+  - Aprender back-end e front end.
   - Tornar-se habilidoso em Java e outras ferramentas importante para ao back e front -end
   - Estar trabalhando na área até o 1º semestre do ano.
 
