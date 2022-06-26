@@ -22,8 +22,8 @@
   - Estrutura Organizacional e Modelagem de Dados.
   - Java com POO
   - Java com Tópicos Especiais
-  - Front End
-  - Back End
+  - Front- End
+  - Back- End
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
