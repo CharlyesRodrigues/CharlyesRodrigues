@@ -22,8 +22,9 @@
   - Estrutura Organizacional e Modelagem de Dados.
   - Java com POO
   - Java com Tópicos Especiais
-  - Front- End
-  - Back- End
+  - Front- End/Back- End
+  - Spring  Boot
+  - React
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
@@ -39,18 +40,22 @@
 
   - Aprender back-end e front end
   - Tornar-se habilidoso em Java e outras ferramentas importante para ao back e front -end
-  - Estar trabalhando na área até o 1º semestre do ano.
+
+    ​
 
 ### **_🛠 Pilha de Tecnologia_**
 
 - 💻   Java 
 - 🛢   MySQL Workbench
-- 🔧   Eclipse | Git e Github
+- 🔧  Eclipse | Visual Code | Git e Github
 - 🖥  Photoshop 
 - ​     Markdown
-- Java com POO
-- Java com Tópicos Especiais
-- Front End
+- ​     Java com POO
+- ​    Java com Tópicos Especiais
+- ​    Front End/Back End
+- ​    Trello
+- ​     Figma
+- WordPress
 
 
 ### 🤝🏻 Conecte-se comigo
