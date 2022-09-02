@@ -10,21 +10,24 @@
 
 - ✍️   Módulos  estudados  :
 
-  - Pensamento Crítico
-  - Soft Skill
-  - Sistemas Operacionais
+  - PENSAMENTO CRÍTICO
+  - SOFT SKILL
+  - SISTEMAS OPERACIONAIS
   - OAC
-  - Introdução a programação
-  - Lógica de Programação
+  - INTRODUÇÃO A PROGRAMAÇÃO
+  - LÓGICA DE PROGRAMAÇÃO
   - SQL
-  - Metodologias Ágeis
+  - METODOLOGIAS ÁGEIS
   - LGPD
-  - Estrutura Organizacional e Modelagem de Dados.
-  - Java com POO
-  - Java com Tópicos Especiais
-  - Front- End/Back- End
-  - Spring  Boot
-  - React
+  - ESTRUTURA ORGANIZACIONAL E MODELAGEM DE DADOS
+  - JAVA COM POO
+  - jAVA COM TÓPICOS ESPECIAIS
+  - HTML
+  - CSS
+  - BOOTSTRAP
+  - SPRING BOOT
+  - REACT
+  - ANGULAR
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
