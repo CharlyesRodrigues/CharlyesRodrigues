@@ -95,9 +95,7 @@
 
 ### ⚙️ Projetos
 
- <a href="https://github.com/CharlyesRodrigues/Primeiro-Projeto-React" target =" _blank">
-
-<img align="center" alt ="charlyes - Instagram " height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"style="max - width:100%;">
+ <a href="https://github.com/CharlyesRodrigues/Primeiro-Projeto-React" target =" _blank"><img align="center" alt ="charlyes - Instagram " height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"style="max - width:100%;">
 
 
 
