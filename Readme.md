@@ -6,8 +6,6 @@
 - 🎓   Estudante de Desenvolvimento de software(Stack x).
 
 
-- 🔭   Atualmente estou estudando JavaPoo.
-
 - ✍️   Módulos  estudados  :
 
   - PENSAMENTO CRÍTICO
@@ -90,5 +88,18 @@
 <img align="center" alt ="charlyes - linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max - width:100%;">
  <a href="https://www.instagram.com/charlyes_rodrigues" target =" _blank">
 <img align="center" alt ="charlyes - Instagram " height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"style="max - width:100%;">
+
+**⚙️ Projetos  **
+
+ <a href="https://github.com/CharlyesRodrigues/Primeiro-Projeto-React" target =" _blank">
+
+<img align="center" alt ="Lista de alunos de um curso " height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"style="max - width:100%;">
+
+
+
+
+
+
+
 
 
