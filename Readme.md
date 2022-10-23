@@ -94,7 +94,7 @@
 
 ### ⚙️ Projetos
 
- <a href="https://github.com/CharlyesRodrigues/Primeiro-Projeto-React" target =" _blank"><img align="center" alt ="charlyes - linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"style="max - width:100%;">
+ <a href="https://github.com/CharlyesRodrigues/Primeiro-Projeto-React" target =" _blank"><img align="center" alt ="Lista de alunos" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"style="max - width:100%;">
 
 
 
