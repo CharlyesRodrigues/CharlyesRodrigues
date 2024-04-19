@@ -60,9 +60,9 @@
 
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
-  ### 💡 Meta para 2023:
+  ### 💡 Meta para 2024:
 
-  - Aprender back-end e front end
+  - Aprender Front-end e Back-end
   - Tornar-se habilidoso em Java e outras ferramentas importante para ao back e front -end
 
     ​
