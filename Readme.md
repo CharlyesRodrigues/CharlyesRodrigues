@@ -52,7 +52,7 @@
 
   Além de Tópicos especiais da Stack x aonde eu aprendi sobre o Qlik Sense. 
 
-- ⚡ Curiosidade : Tive uma gráfica por 3 anos ,aonde fui sócio com minha irmã. Dentre os programas utilizados estão : Photoshop e Corel Draw. Nessa gráfica ( Montei um site) foram adquiridos vários Soft Skills e Hard  Skills, obtivemos vários clientes e nos deparamos com várias situações que foram superadas uma-a-uma. Hoje estou  em transição de carreira e por isso estou estudando essa área que têm me fascinado(Desenvolvimento de Software). 
+- ⚡ Curiosidade : Tive uma gráfica por 3 anos ,aonde fui sócio com minha irmã. Dentre os programas utilizados estão : Photoshop e Corel Draw. Nessa gráfica foram adquiridos vários Soft Skills e Hard  Skills, obtivemos vários clientes e nos deparamos com várias situações que foram superadas uma-a-uma. Hoje estou  em transição de carreira e por isso estou estudando essa área que têm me fascinado(Desenvolvimento de Software). 
 
 - 😄 Meu Site : https://www.charlyesimpressos.com.br
 
@@ -63,7 +63,7 @@
   ### 💡 Meta para 2024:
 
   - Aprender Front-end e Back-end
-  - Tornar-se habilidoso em Java e outras ferramentas importante para ao back e front -end
+  - Tornar-me habilidoso em Java e outras ferramentas importante para o Front-end e para o Back-end
 
     ​
 
